@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0
-      cd Secktor-2.0
+      git clone https://github.com/chhaseeb47/HASI-MD
+      cd HASI-MD
       yarn install --network-concurrency 1
       ```
 
@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="8801853262586"
-      MONGODB_URI="mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
+      OWNER_NUMBER="923407472645"
+      MONGODB_URI="url"
       SESSION_ID = "ID-here"
-      THUMB_IMAGE = "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
+      THUMB_IMAGE = "https://telegra.ph/file/ea5cfd778d2004c72d965.jpg"
       port = 5000
-      email = "infiniteytff@gmail.com"
+      email = "haseebrashid707@gmail.com"
       global_url = "insta url here"
-      OWNER_NAME = "Team Secktor"
+      OWNER_NAME = "𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= SECKTOR-2.0
+      THEME= SECKTOR
       WORKTYPE = public
-      PACK_INFO = "Sam;ꜱᴇᴄᴋᴛᴏʀ-2.0 ʙᴏᴛ"
+      PACK_INFO = "𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕; HASI-MD"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
