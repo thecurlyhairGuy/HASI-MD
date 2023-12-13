@@ -39,7 +39,7 @@
 
       ```
       OWNER_NUMBER="923407472645"
-      MONGODB_URI="url"
+      MONGODB_URI="url of mongodb"
       SESSION_ID = "ID-here"
       THUMB_IMAGE = "https://telegra.ph/file/ea5cfd778d2004c72d965.jpg"
       port = 5000
