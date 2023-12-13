@@ -98,7 +98,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 ## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑` , `𝐀𝐮𝐭𝐡𝐨𝐫𝐬`
 <div align="left">
   <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
-<a href="[https://github.com/abdullahjuttofc.png]"><img src="https://github.com/abdullahjuttofc.png" width="150" height="200" alt="Ash"/></a>
+<a href="[https://github.com/naveeddogar.png]"><img src="https://github.com/naveeddogar.png" width="150" height="200" alt="Ash"/></a>
  </div>
 <br>
 <h4 align="left">
