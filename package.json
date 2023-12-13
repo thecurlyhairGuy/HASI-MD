@@ -6,8 +6,8 @@
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name hasi-md",
-                "stop": "pm2 stop hasi-md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name hasi",
+                "stop": "pm2 stop hasi"
                 },
                "author": "SamPandey001",
               "dependencies": {
