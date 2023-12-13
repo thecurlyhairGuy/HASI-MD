@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting HASI-md..."
+echo "Starting HASI-MD..."
 node lib/client.js
 done
