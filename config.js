@@ -15,7 +15,7 @@ global.devs = '923407472645';
 global.website = 'https://github.com/chhaseeb47/HASI-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ea5cfd778d2004c72d965.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'HASI-D' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'HASI-MD' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? '𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕' : process.env.PACK_AUTHER.split(";")[0],
