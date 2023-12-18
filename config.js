@@ -4,23 +4,23 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER.split(",")
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb = process.env.MONGODB_URI || "url"
 global.port= process.env.PORT || 5000
 global.email = 'infiniteytff@gmail.com'
-global.github = 'https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0'
-global.location = 'Dhaka Bangladesh'
-global.gurl = 'https://instagram.com/sla.sher_' // add your username
-global.sudo = process.env.SUDO || '8801853262586'
-global.devs = '8801853262586';
-global.website = 'https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0' // Hello world
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.ibb.co/Bts2qW4/20231020-004949.jpg'
+global.github = 'https://github.com/chhaseeb47/HASI-MD'
+global.location = 'Pakistan'
+global.gurl = 'https://instagram.com/_' // add your username
+global.sudo = process.env.SUDO || '923407472645'
+global.devs = '923407472645';
+global.website = 'https://github.com/chhaseeb47/HASI-MD' // Hello world
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ea5cfd778d2004c72d965.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'ꜱᴇᴄᴋᴛᴏʀ-2.0 ʙᴏᴛ' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'ꜱʟᴀꜱʜᴇʀ-ᴏꜰꜰɪᴄɪᴀʟ' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'HASI-D' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'ꜱʟᴀꜱʜᴇʀ-ᴏꜰꜰɪᴄɪᴀʟ' : process.env.PACK_AUTHER.split(";")[0],
+  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? '𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'ꜱᴇᴄᴋᴛᴏʀ-2.0 ʙᴏᴛ' : process.env.PACK_NAME.split(";")[1],
+  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'HASI-MD' : process.env.PACK_NAME.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nigga' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
@@ -43,8 +43,8 @@ module.exports = {
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
-  VERSION: process.env.VERSION === undefined ? 'Ｖ-２.０.１' : process.env.VERSION,
-  LANG: process.env.THEME|| 'SECKTOR-2.0',
+  VERSION: process.env.VERSION === undefined ? 'Ｖ-1.０.１' : process.env.VERSION,
+  LANG: process.env.THEME|| 'SECKTOR',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
