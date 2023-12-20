@@ -36,7 +36,7 @@ const fetch = require('node-fetch');
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'Secktor Session',
+                        title: 'Hasi-Md Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
@@ -340,13 +340,13 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Sʟᴀꜱʜᴇʀ-Oꜰꜰɪᴄɪᴀʟ.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Naveed Dogar.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
 ${alivemessage}
 
-*Version:-* _2.0.1_
+*Version:-* _1.0.1_
 *Uptime:-* _${runtime(process.uptime())}_
 *Owner:-* _${Config.ownername}_
 *Branch:-* _${Config.BRANCH}_
