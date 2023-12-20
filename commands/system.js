@@ -340,20 +340,38 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
+		Void.sendMessage(citel.chat, { 
+              react: { 
+                  text: "💕", 
+                  key: citel.key 
+              } 
+          }) 
+          await Void.sendPresenceUpdate('recording', citel.chat);
+          await Void.sendMessage(citel.chat, { audio: {url : 'https://telegra.ph/file/4d24594904d7b540d5f64.mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
+            let 
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Naveed Dogar.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
 ${alivemessage}
 
-*Version:-* _1.0.1_
-*Uptime:-* _${runtime(process.uptime())}_
-*Owner:-* _${Config.ownername}_
-*Branch:-* _${Config.BRANCH}_
+*👻UPTIME:-* _${runtime(process.uptime())}_
+*👾OWNER:-* _CH HASEEB_
+*🎴BRANCH:-* _${Config.BRANCH}_
+
+💗 HASI-MD WHATSAPP BOT 💗
+
+ I AM ONLINE NOW  ! 
+
+*🧑‍💻DEVOLOPER:* 
+_CH HASEEB_
+_NAVEED-DOGAR_
+
+*❤️VERSION:-* _V1.0.1_
 
 _Type ${prefix}menu for my command list._
 
-_Powered by ${Config.ownername}_
+_POWERED BY:- ${Config.ownername}_
 `;
             let aliveMessage = {
                 image: {
