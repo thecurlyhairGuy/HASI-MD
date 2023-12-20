@@ -1,4 +1,14 @@
-
+**/
+//---------------------------------------------------------------------------
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══╗░░░╔══╗░╔═════════╗░╔═════════╗░╔══╗   ╔══╗   ╔══╗ ╔═════╗                  
+║██║░░░║██║░║█████████║░║█████████║░║██║░░░███╗░░░███╗██████╗░                                              ║██║░░░║██║░║██║░░░║██║░║█░░░░░░░░░░░   ░░░████╗░████║██╔══██╗                                                 
+║█████████║░║█████████║░░║████████║░║██║░░░██╔████╔██║██║░░██║                                                ║██║    ║██║░║██║░░░║██║ ░░░░░░░░░█║░║██║░░░██║╚██╔╝██║██║░░██║                     
+║██║░░░║██║░║██║░░░║██║░║█████████║░║██║░░░██║░╚═╝░██║██████╔╝                                                 
+╚══╝░░░╚══╝░╚══╝░░░╚══╝░╚════════╝░ ╚══╝░░░╚═╝░░░░░╚═╝╚═════╝░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
+--------------------------------------------------------------------------
+**/
 
 const moment = require('moment-timezone')
 const {fetchJson,cmd, tlang } = require('../lib')
@@ -125,7 +135,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel, text) => {
-        if (!text) return citel.reply(`give me a query\n*Example : .google Who is Slasher-Official.*`);
+        if (!text) return citel.reply(`give me a query\n*Example : .google naveeddogar .*`);
         let google = require('google-it');
         google({ 'query': text}).then(res => {
             let msg= `Google Search From : ${text} \n\n`;
@@ -181,12 +191,12 @@ cmd({
         pattern: "iswa",
         category: "search",
         desc: "Searches in given rage about given number.",
-        use: '9112345678xx',
+        use: '9230965664xx',
         filename: __filename,
     },
     async(Void, citel, text) => {
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return citel.reply('You did not add x\nExample: iswa 9196285162xx')
+        if (!inputnumber.includes('x')) return citel.reply('You did not add x\nExample: iswa 9230965664xx')
         citel.reply(`Searching for WhatsApp account in given range...`)
 
         function countInstances(string, word) {
