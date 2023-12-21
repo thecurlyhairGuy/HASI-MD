@@ -63,7 +63,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
 3. How To Deploy video Tutorial.
      <br>
-          <a href='https://youtu.be/bJYJA1wfPMI?si=gJ9aja-17LMewLHu' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+          <a href='https://youtu.be/BX0vkAirhkY?si=ZoOT-Gsis-acsjGT' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO CODESPACE
 
