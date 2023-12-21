@@ -23,7 +23,7 @@
 <a href="https://github.com/chhaseeb47/Hasi-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/chhaseeb47/Hasi-MD?label=Watching&style=social"></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="CH HASEEB :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="CH HASEEB :: Visitor's Count" /></p>
 
 
 </br>
@@ -32,70 +32,81 @@
 ---
 
     
-## `Installation` 📲
-
-<div align="center">\
-  
-<h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟏 𝐓𝐚𝐩 𝐚𝐧𝐝 𝐅𝐨𝐫𝐤 🔰 </h2>
-<a href="https://github.com/chhaseeb47/Hasi-MD/fork"><img title="Hasi-1.0" src="https://img.shields.io/badge/FORK Hasi-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
-  </a>
-
-  <div align="center">
-  
-<h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟐 𝐒𝐜𝐚𝐧 𝐐𝐑 🔰 </h2>
 
 
-<a href='https://replit.com/@chhaseeb47/Hasi11?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+### 1. FORK THIS REPO
+<a href='https://github.com/chhaseeb47/Hasi-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-   
-<a href='https://replit.com/@MHMODS/Hasi-MD-V1-QR?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+### 2. SCAN QR CODE
+<a href='https://replit.com/.....' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-<a href='https://replit.com/@MHMODS/MH-MODS-MD-QR-V1?v=1' target="_blank"><img alt='SCAN QR-3' src='https://img.shields.io/badge/Scan_qr-3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
- <div align="left">
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
 ```
 mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
 ```
-  <div align="center">
-  
-<h2 align="center"> 🔰 𝐒𝐭𝐞𝐩 𝟑 𝐃𝐞𝐩𝐥𝐨𝐲 🔰 </h2>
 
-</p>
-  __________________________
- </p>
-<h4 align="center">
-</h4>
-</p>
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/chhaseeb47/Hasi-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
-    </a>
-</p>
-    ________________________
 
-    
-<p align="center" >
-    <a href="https://repl.it/github/chhaseeb47/Hasi-MD">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
-    </a>
-</p>
-  __________________________
-  
-## `◀️ 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 ▶️`
- Tap On Following Button & Watch How To Deploy This Bot.
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
     <br>
-<p align="center"><a href="https://youtu.be/bJYJA1wfPMI?si=gJ9aja-17LMewLHu"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+2. Now Deploy
+    <br>
+<a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+3. How To Deploy video Tutorial.
+     <br>
+          <a href='https://youtu.be/bJYJA1wfPMI?si=gJ9aja-17LMewLHu' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+#### DEPLOY TO CODESPACE
+
+1. If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
 
-</p>
+#### DEPLOY TO RAILWAY
 
-</details>
+1. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
-<br>
-<p align="left" >
-## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑` , `𝐀𝐮𝐭𝐡𝐨𝐫𝐬`
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+#### DEPLOY TO MONGENIUS
+
+1. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+
+#### DEPLOY TO REPLIT
+
+1. If You don't have a account in Replit. Create a account.
+    <br>
+<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+2. Now Deploy
+    <br>
+<a href='https://replit.com/github/chhaseeb47/Hasi-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+---
+
+## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`
 <div align="left">
   <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
 <a href="[https://github.com/naveeddogar.png]"><img src="https://github.com/naveeddogar.png" width="150" height="200" alt="Ash"/></a>
@@ -107,7 +118,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 | Owner, Developer, Bug Fixer, Maintainer, updates|
 
 | [NAVEED BRO ](https://github.com/naveeddogar) |
-| CO.Devlopee |
+| CO.Devloper |
 
 
 
