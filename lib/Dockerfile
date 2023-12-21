@@ -1,4 +1,4 @@
-FROM quay.io/sampandey001/secktor
+FROM quay.io/naveeddogar/kingmd
 RUN git clone https://github.com/chhaseeb47/HASI-MD /root/chhaseeb47
 WORKDIR /root/chhaseeb47/
 RUN npm install npm@latest
