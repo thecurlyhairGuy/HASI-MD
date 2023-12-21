@@ -17,13 +17,16 @@
 <a href="https://github.com/chhaseeb47/Hasi-MD"><img title="Author" src="https://img.shields.io/badge/Hasi-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/chhaseeb47/Hasi-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/chhaseeb47?label=Followers&style=social"></a>
 <a href="https://github.com/chhaseeb47/Hasi-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/chhaseeb47/Hasi-MD?&style=social"></a>
 <a href="https://github.com/chhaseeb47/Hasi-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/chhaseeb47/Hasi-MD?style=social"></a>
-<a href="https://github.com/chhaseeb47/Hasi-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/chhaseeb47/Hasi-MD?label=Watching&style=social"></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="CH HASEEB :: Visitor's Count" /></p>
+<p align="center">
+ <a href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 
 </br>
