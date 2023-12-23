@@ -16,7 +16,7 @@
  It is supplied in the hope that it may be useful                                     
  * @project_name : HASI-MD                                                                   
  * @author : chhaseeb47 <https://github.com/chhaseeb47>   
- * @description : HASI-Md ,A Multi-functional whatsapp bot.       
+ * @description : HASI-MD ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
  **/
