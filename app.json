@@ -2,7 +2,7 @@
   "name": "HASI-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/ea5cfd778d2004c72d965.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "HASI-MD", "Hasi","Hasi-Bot","theme bot","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Hasi-Two", "HASI-MD", "Hasi","Hasi-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
