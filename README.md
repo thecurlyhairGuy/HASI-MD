@@ -44,13 +44,15 @@
 
 ### 2. SCAN QR CODE 
 <a href='https://replit.com/@naveeddogar/HASI-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-<a href='https://replit.com/@MHMODS/HASI-MD-QR-2?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://replit.com/@MHMODS/HASI-MD-QR-2?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
 ```
 mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
 ```
+<a href='https://youtu.be/_Yqtsho9eI0?si=_ezalTW5QiTI-0w2' target="_blank"><img alt='Mongodb Url Tutorial' src='https://img.shields.io/badge/-Mongodb Url Tutorial-green?style=for-the-badge&logo=mongodb&logoColor=darkgreen'/></a>
+
 
 
 #### DEPLOY TO HEROKU 
@@ -65,7 +67,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 3. How To Deploy video Tutorial.
      <br>
-          <a href='https://youtu.be/BX0vkAirhkY?si=ZoOT-Gsis-acsjGT' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+          <a href='https://youtu.be/BX0vkAirhkY?si=ZoOT-Gsis-acsjGT' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO CODESPACE
 
