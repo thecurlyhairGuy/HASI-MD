@@ -43,7 +43,7 @@ module.exports = {
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
-  VERSION: process.env.VERSION === undefined ? 'Ｖ-1.０.１' : process.env.VERSION,
+  VERSION: process.env.VERSION === undefined ? 'Ｖ-1.1.１' : process.env.VERSION,
   LANG: process.env.THEME|| 'SECKTOR',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
