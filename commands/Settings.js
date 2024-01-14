@@ -105,7 +105,7 @@ Eg:- .setvar THUMB_IMAGE:put image url
 Eg:- .setvar WORKTYPE:public/privet
 
 
-©𝑯𝒂𝒔𝒊-𝑴𝑫-𝑽𝟏.𝟏g
+©𝑯𝒂𝒔𝒊-𝑴𝑫-𝑽𝟏.𝟏
 `,
 
                 footer: tlang().footer,
