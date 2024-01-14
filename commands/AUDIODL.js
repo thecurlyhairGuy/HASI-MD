@@ -211,7 +211,7 @@ await Void.sendMessage(citel.chat, { react: {  text: "⬇️", key: msg.key } } 
                     document: fs.readFileSync(`./${randomName}`),
                     mimetype: 'audio/mpeg',
                     fileName: titleYt + ".mp3",
-		    caption: `* ©𝑯𝒂𝒔𝒊-𝑴𝑫-𝑽𝟏.𝟏* 👑`,       
+		    caption: `* © 𝑯𝒂𝒔𝒊-𝑴𝑫-𝑽𝟏.𝟏* 👑`,       
                     headerType: 4,
                    
                 }
