@@ -6,6 +6,7 @@
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= 𝙃𝘼𝙎𝙄-𝙈𝘿;𝙈𝙪𝙡𝙩𝙞+𝘿𝙚𝙫𝙞𝙘𝙚+𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥+𝘽𝙤𝙩;𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙+𝘽𝙮+𝙃𝘼𝙎𝙀𝙀𝘽 𝙅𝙐𝙏𝙏" alt="Typing SVG" /></a>
   
+
   
 <p align="center">
   <a href="">
