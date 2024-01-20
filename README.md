@@ -44,8 +44,8 @@
 <a href='https://github.com/chhaseeb47/Hasi-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE 
-<a href='https://replit.com/@naveeddogar/HASI-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-<a href='https://replit.com/@MHMODS/HASI-MD-QR-2?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
+<a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
